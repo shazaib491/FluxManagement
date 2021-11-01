@@ -1,12 +1,19 @@
 .header--bg {
   background-color: #3956ac !important;
-  
 }
 
-.header--color{
-    color:white !important;
+.header--color {
+  color: white !important;
 }
 
-.header--toggle{
-    color:white !important;
+.header--toggle {
+  color: white !important;
 }
+
+.profile .profile-card h2 {
+  font-size: 24px;
+  font-weight: 700;
+  color: #2c384e;
+  margin: 10px 113px 0 0 !important;
+}
+
